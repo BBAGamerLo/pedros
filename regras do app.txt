@@ -1,0 +1,2 @@
+Olá.
+O app não atualiza os drivers proprietários, ou seja, da NVIDIA©
